@@ -16,7 +16,7 @@
 	<properties>
 		<jdk.version>1.8</jdk.version>
 		<spring.version>4.3.12.RELEASE</spring.version>
-		<springsecurity.version>4.2.3.RELEASE</springsecurity.version>
+		<springsecurity.version>5.2.9.RELEASE</springsecurity.version>
 		<spring-security-saml2-core.version>1.0.9.RELEASE</spring-security-saml2-core.version>
 		<opensaml.version>2.6.4</opensaml.version>
 		<jackson.version>2.6.3</jackson.version>
